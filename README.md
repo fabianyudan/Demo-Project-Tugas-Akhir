@@ -74,7 +74,3 @@ Di sidebar aplikasi, isi:
 - `SENTIMENT_MODEL_DIR`: `username/deberta_v3_aspect_sentiment`
 
 Atau set sebagai **Space Variables** dengan nama yang sama.
-
-## Catatan untuk demo sidang
-
-Jika model belum ter-upload, aplikasi tetap berjalan dengan fallback lexicon. Namun untuk hasil yang sesuai eksperimen Tugas Akhir, gunakan dua folder model hasil training dari notebook.
